@@ -9,4 +9,3 @@
 ## Mobile Phones
 - Samsung S9
 - IPhone X
-- IPhone XS
